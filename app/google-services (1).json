@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "888942204735",
+    "firebase_url": "https://login-a91eb-default-rtdb.firebaseio.com",
+    "project_id": "login-a91eb",
+    "storage_bucket": "login-a91eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888942204735:android:4d57fd818a40c62638658a",
+        "android_client_info": {
+          "package_name": "com.example.app_gk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888942204735-bm7ed2ksep1n06mgtf0or880ncije781.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCorZ_YX1d5DoCrm4T2I123oEgb1f7BfV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888942204735-bm7ed2ksep1n06mgtf0or880ncije781.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888942204735:android:bf2d7856d7b2579738658a",
+        "android_client_info": {
+          "package_name": "com.example.baiktra2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888942204735-bm7ed2ksep1n06mgtf0or880ncije781.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCorZ_YX1d5DoCrm4T2I123oEgb1f7BfV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888942204735-bm7ed2ksep1n06mgtf0or880ncije781.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
